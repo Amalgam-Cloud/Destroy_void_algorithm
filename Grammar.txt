@@ -1,0 +1,7 @@
+S->Aaa|Bbb|A
+C->A|bb|D|A
+D->A|bb|D|A
+C->B
+A->CaC|DDd
+F->BBE
+B->BLL
